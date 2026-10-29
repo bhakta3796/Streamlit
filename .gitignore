@@ -1,2 +1,5 @@
-Streamlit_basic/
 .venv/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
